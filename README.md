@@ -1,16 +1,56 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>KILLRDRAGO – Game Basics Coach</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 text-gray-800">
+  <!-- Header -->
+  <header class="bg-green-700 text-white py-6 text-center text-3xl font-bold">
+    KILLRDRAGO 🎮 Game Basics Coach
+  </header>
 
-<!--
-**KILLRDRAGO/KILLRDRAGO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <section class="p-6 max-w-2xl mx-auto text-center">
+    <h1 class="text-2xl font-semibold mb-4">Hey there, I’m <span class="text-green-700">KILLRDRAGO</span> 👋</h1>
+    <p class="mb-4">
+      I teach beginners game basics — <strong>mainly Minecraft</strong>.  
+      Whether you’re starting or want to improve your skills, I got you 💪
+    </p>
+    <ul class="text-left inline-block mb-4">
+      <li>• Minecraft Lessons</li>
+      <li>• Survival, Redstone, Building</li>
+      <li>• Easy and beginner-friendly</li>
+    </ul>
+    <a href="#services" class="mt-3 inline-block bg-green-700 text-white px-6 py-3 rounded hover:bg-green-800">See Services</a>
+  </section>
 
-Here are some ideas to get you started:
+  <section id="services" class="bg-white p-6 max-w-2xl mx-auto mt-8 rounded shadow">
+    <h2 class="text-2xl font-semibold mb-4 text-center">What I Offer 💼</h2>
+    <ul class="space-y-2">
+      <li>🎓 Minecraft Game Basics – Rs. 500/session</li>
+      <li>📘 Survival Mode Guide</li>
+      <li>🧱 Build Your First House</li>
+      <li>🧠 Crafting, Mining & Enchanting</li>
+      <li>⚙️ Redstone Basics</li>
+    </ul>
+    <p class="mt-4 text-center">
+      🤝 Sessions on Discord, WhatsApp, or Zoom<br>
+      <a href="#contact" class="text-green-700 hover:underline">Contact Me</a>
+    </p>
+  </section>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <section id="contact" class="p-6 max-w-2xl mx-auto mt-8 text-center">
+    <h2 class="text-2xl font-semibold mb-4">Let’s Get Started 🚀</h2>
+    <p class="mb-2">📱 WhatsApp: 03XXXXXXXXX</p>
+    <p class="mb-2">💬 Discord: KILLRDRAGO#0000</p>
+    <p class="mb-4">📧 Email: yourname@gmail.com</p>
+    <a href="https://wa.me/92XXXXXXXXXX" target="_blank" class="inline-block bg-green-700 text-white px-6 py-3 rounded hover:bg-green-800">Message Me</a>
+  </section>
+
+  <footer class="bg-gray-200 text-center py-4 mt-8 text-sm text-gray-600">
+    &copy; 2025 KILLRDRAGO. All Rights Reserved.
+  </footer>
+</body>
+</html>
