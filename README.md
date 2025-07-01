@@ -29,7 +29,7 @@
   <section id="services" class="bg-white p-6 max-w-2xl mx-auto mt-8 rounded shadow">
     <h2 class="text-2xl font-semibold mb-4 text-center">What I Offer 💼</h2>
     <ul class="space-y-2">
-      <li>🎓 Minecraft Game Basics – Rs. 500/session</li>
+      <li>🎓 Minecraft Game Basics – Rs. 1000/session</li>
       <li>📘 Survival Mode Guide</li>
       <li>🧱 Build Your First House</li>
       <li>🧠 Crafting, Mining & Enchanting</li>
